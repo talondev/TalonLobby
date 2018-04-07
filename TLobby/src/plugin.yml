@@ -1,0 +1,5 @@
+author: TalonDev
+name: TalonLobby
+version: 1.0
+
+main: me.talondev.lobby.TalonLobby
